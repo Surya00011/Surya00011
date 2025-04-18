@@ -22,8 +22,8 @@ Welcome to my GitHub profile! I'm a passionate **Java Developer** with skills in
 - Exploring database management and development with **MySQL**.
 
 ## 📫 Let's Connect:
-- **Email**: suryaanirudh22@gmail.com
-- **LinkedIn**: [(https://www.linkedin.com/in/surya-b-b0299224b/)]
+- **Email**: suryaengg001@gmail.com
+- **LinkedIn**: [(https://www.linkedin.com/in/surya-b-7335a3358/)]
 - **Leetcode** :[(https://leetcode.com/u/Surya_0_1/)]
 - **HackerRank** :[(https://www.hackerrank.com/profile/Surya_0_1)]
 
