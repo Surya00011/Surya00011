@@ -10,8 +10,8 @@ Welcome to my GitHub profile! I'm a passionate **Java Developer** with skills in
 ## ⚙️ Technologies & Tools:
 - **Java** (Core, OOP, Multithreading, Exception Handling, Streams, Collections)
 - **J2EE** (Servlets, JSP, JDBC)
-- **Springboot**(Data JPA, Security , MVC Arch)
-- **MySQL** (Database Management)
+- **Springboot**(Data JPA, Security)
+- **MySQL** (Database)
 - **HTML**, **CSS** ,**Bootstrap** 
 - **C++** (Programming)
 - **Postman** (RestApi Testing)
