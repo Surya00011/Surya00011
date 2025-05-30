@@ -26,5 +26,6 @@ Welcome to my GitHub profile! I'm a passionate **Java Developer** with skills in
 - **LinkedIn**: [(https://www.linkedin.com/in/surya-b-7335a3358/)]
 - **Leetcode** :[(https://leetcode.com/u/Surya_0_1/)]
 - **HackerRank** :[(https://www.hackerrank.com/profile/Surya_0_1)]
+- **Resume** :[(https://drive.google.com/file/d/1I99w-IKmbTX6TXmfSar4jfZ_vQdHYqiP/view?usp=sharing)]
 
 Feel free to explore my repositories and follow along as I continue to grow as a developer!
