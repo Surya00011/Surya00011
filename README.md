@@ -1,31 +1,58 @@
-# 👨‍💻 Hello, I'm Surya!
+# Hello, I'm Surya
 
-Welcome to my GitHub profile! I'm a passionate **Java Developer** with skills in **HTML**, **CSS**, **Java**, **J2EE**, **SpringBoot**,**MySQL**, and **Javascript**. 
+Welcome to my GitHub profile! I'm a passionate **Java Developer** expanding into **Go**, **MongoDB**, and **Linux**, with a strong foundation in backend and web development.
 
-## 🚀 About Me:
-- 🌱 Currently diving deep into **Java**, **SpringBoot**, and enhancing my problem-solving skills.
-- 💡 I enjoy building projects that integrate both backend and frontend technologies.
-- 📚 I believe in continuous learning and love exploring new concepts and frameworks.
+---
 
-## ⚙️ Technologies & Tools:
-- **Java** (Core, OOP, Multithreading, Exception Handling, Streams, Collections)
-- **J2EE** (Servlets, JSP, JDBC)
-- **Springboot**(Data JPA, Security)
-- **MySQL** (Database)
-- **HTML**, **CSS** ,**Bootstrap** 
-- **C++** (Programming)
-- **Postman** (RestApi Testing)
-  
-## 🌱 Current Focus:
-- Building Java-based applications with **SpringBoot**.
-- Enhancing problem-solving skills with coding challenges.
-- Exploring database management and development with **MySQL**.
+## 🔹 About Me
 
-## 📫 Let's Connect:
-- **Email**: suryaengg001@gmail.com
-- **LinkedIn**: [(https://www.linkedin.com/in/surya-b-7335a3358/)]
-- **Leetcode** :[(https://leetcode.com/u/Surya_0_1/)]
-- **HackerRank** :[(https://www.hackerrank.com/profile/Surya_0_1)]
-- **Resume** :[(https://drive.google.com/file/d/1I99w-IKmbTX6TXmfSar4jfZ_vQdHYqiP/view?usp=sharing)]
+- Currently diving deep into **Java**, **Spring Boot**, and **Go (Golang)**  
+- Exploring backend development with **MongoDB** and **MySQL**  
+- Enjoy building full-stack applications that solve real-world problems  
+- A firm believer in continuous learning and hands-on practice  
 
-Feel free to explore my repositories and follow along as I continue to grow as a developer!
+---
+
+## 🔹 Technologies & Tools
+
+### Backend
+- **Java**: Core, OOP, Multithreading, Exception Handling, Streams, Collections  
+- **J2EE**: Servlets, JSP, JDBC  
+- **Spring Boot**: Spring Data JPA, Spring Security  
+- **Go (Golang)**: Basics, HTTP, Slices, Concurrency  
+
+### Database
+- **MySQL**  
+- **MongoDB**
+
+### Frontend
+- **HTML**, **CSS**, **Bootstrap**  
+- **JavaScript**
+
+### Tools & Others
+- **Postman**: REST API testing  
+- **Git & GitHub**: Version control  
+- **Linux**: Command line basics, environment setup  
+
+---
+
+## 🔹 Current Focus
+
+- Building backend applications using **Spring Boot** and **Go**  
+- Strengthening problem-solving skills through coding platforms  
+- Working with **MongoDB** and **MySQL** to manage structured and unstructured data  
+- Getting more comfortable with **Linux** systems for development and deployment  
+
+---
+
+## 🔹 Connect With Me
+
+- **Email**: [suryaengg001@gmail.com](mailto:suryaengg001@gmail.com)  
+- **LinkedIn**: [linkedin.com/in/surya-b-7335a3358](https://www.linkedin.com/in/surya-b-7335a3358)  
+- **LeetCode**: [leetcode.com/u/Surya_0_1](https://leetcode.com/u/Surya_0_1/)  
+- **HackerRank**: [hackerrank.com/profile/Surya_0_1](https://www.hackerrank.com/profile/Surya_0_1)  
+- **Resume**: [View Resume](https://drive.google.com/file/d/1I99w-IKmbTX6TXmfSar4jfZ_vQdHYqiP/view?usp=sharing)  
+
+---
+
+Feel free to explore my repositories and follow along as I continue to grow as a developer.
