@@ -28,6 +28,7 @@ Welcome to my GitHub profile! I'm a passionate **Java Developer** expanding into
 ### Frontend
 - **HTML**, **CSS**, **Bootstrap**  
 - **JavaScript**
+- **Reactjs**
 
 ### Tools & Others
 - **Postman**: REST API testing  
